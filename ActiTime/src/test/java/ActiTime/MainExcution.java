@@ -14,7 +14,8 @@ public class MainExcution {
 	
 	@Test
 	public void test() {
-		System.out.println("test method..");
+		System.out.println("test method ..");
+		System.out.println("github tested");
 	}
 
 }
